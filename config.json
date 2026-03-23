@@ -1,0 +1,152 @@
+{
+  "ads_enabled": true,
+  "show_interstitial": true,
+  "show_banner": true,
+  "show_native": true,
+  "show_open_ad": true,
+
+  "ad_units": {
+    "pangle_app_id": "8734395",
+    "splash_open": "890129935",
+    "banner_main": "982508241",
+    "interstitial_tips": "982503075",
+    "native_free_tips": "982508214",
+    "native_vip": "982508214",
+    "native_exit": "982508214"
+  },
+
+  "api_football_key": "YOUR_API_FOOTBALL_KEY_HERE",
+
+  "paystack_public_key": "pk_live_21ece91fbb5ded256dd1f4ddf4262d20505c342b",
+  "paystack_secret_key": "sk_live_c94b7250ccdc9436ddb5f4706f143edf904d9c41",
+
+  "onesignal_id": "",
+
+  "packages": [
+    {
+      "id": "basic",
+      "title": "Basic",
+      "subtitle": "Best Value for Beginners",
+      "type": "BASIC",
+      "is_most_popular": false,
+      "kenya_only": false,
+      "features": [
+        "5–10 Curated Tips Daily",
+        "Top 15 Leagues Covered",
+        "Win Rate Analysis",
+        "Match Form & Head-to-Head Stats",
+        "Ad-Free Experience",
+        "24/7 Support"
+      ],
+      "prices": [
+        { "duration": "DAILY",   "amount_usd": 1,  "local": { "KE": {"currency":"KES","amount":130}, "NG": {"currency":"NGN","amount":1500}, "GH": {"currency":"GHS","amount":15}, "ZA": {"currency":"ZAR","amount":18}, "UG": {"currency":"UGX","amount":3600}, "TZ": {"currency":"TZS","amount":2500}, "DEFAULT": {"currency":"USD","amount":1} } },
+        { "duration": "WEEKLY",  "amount_usd": 5,  "local": { "KE": {"currency":"KES","amount":650}, "NG": {"currency":"NGN","amount":7500}, "GH": {"currency":"GHS","amount":75}, "ZA": {"currency":"ZAR","amount":90}, "UG": {"currency":"UGX","amount":18000}, "TZ": {"currency":"TZS","amount":12500}, "DEFAULT": {"currency":"USD","amount":5} } },
+        { "duration": "MONTHLY", "amount_usd": 16, "local": { "KE": {"currency":"KES","amount":2000}, "NG": {"currency":"NGN","amount":24000}, "GH": {"currency":"GHS","amount":240}, "ZA": {"currency":"ZAR","amount":290}, "UG": {"currency":"UGX","amount":57000}, "TZ": {"currency":"TZS","amount":40000}, "DEFAULT": {"currency":"USD","amount":16} } }
+      ]
+    },
+    {
+      "id": "premium",
+      "title": "Premium",
+      "subtitle": "Top Choice for Serious Bettors",
+      "type": "PREMIUM",
+      "is_most_popular": true,
+      "kenya_only": false,
+      "features": [
+        "15–30 Premium Tips Daily",
+        "Top 5 Leagues — Elite Analysis",
+        "High Win Probability Selections",
+        "BTTS & Over/Under Insights",
+        "In-Depth Team & Player Form",
+        "Injury & Lineup Alerts",
+        "Ad-Free Experience",
+        "Priority 24/7 Support"
+      ],
+      "prices": [
+        { "duration": "DAILY",   "amount_usd": 3,  "local": { "KE": {"currency":"KES","amount":390}, "NG": {"currency":"NGN","amount":4500}, "GH": {"currency":"GHS","amount":45}, "ZA": {"currency":"ZAR","amount":54}, "UG": {"currency":"UGX","amount":10800}, "TZ": {"currency":"TZS","amount":7500}, "DEFAULT": {"currency":"USD","amount":3} } },
+        { "duration": "WEEKLY",  "amount_usd": 15, "local": { "KE": {"currency":"KES","amount":1950}, "NG": {"currency":"NGN","amount":22500}, "GH": {"currency":"GHS","amount":225}, "ZA": {"currency":"ZAR","amount":270}, "UG": {"currency":"UGX","amount":54000}, "TZ": {"currency":"TZS","amount":37500}, "DEFAULT": {"currency":"USD","amount":15} } },
+        { "duration": "MONTHLY", "amount_usd": 50, "local": { "KE": {"currency":"KES","amount":6500}, "NG": {"currency":"NGN","amount":75000}, "GH": {"currency":"GHS","amount":750}, "ZA": {"currency":"ZAR","amount":900}, "UG": {"currency":"UGX","amount":180000}, "TZ": {"currency":"TZS","amount":125000}, "DEFAULT": {"currency":"USD","amount":50} } }
+      ]
+    },
+    {
+      "id": "draws",
+      "title": "Draws",
+      "subtitle": "High-Value Draw Predictions",
+      "type": "DRAWS",
+      "is_most_popular": false,
+      "kenya_only": false,
+      "features": [
+        "Daily Draw Predictions",
+        "Top 10 Leagues Covered",
+        "Draw Probability Scoring",
+        "Low-Scoring Match Analysis",
+        "Defensive Form & H2H Draw Stats",
+        "Combo Draw Accumulators",
+        "Ad-Free Experience",
+        "24/7 Support"
+      ],
+      "prices": [
+        { "duration": "DAILY",   "amount_usd": 1,  "local": { "KE": {"currency":"KES","amount":130}, "NG": {"currency":"NGN","amount":1500}, "GH": {"currency":"GHS","amount":15}, "ZA": {"currency":"ZAR","amount":18}, "UG": {"currency":"UGX","amount":3600}, "TZ": {"currency":"TZS","amount":2500}, "DEFAULT": {"currency":"USD","amount":1} } },
+        { "duration": "WEEKLY",  "amount_usd": 5,  "local": { "KE": {"currency":"KES","amount":650}, "NG": {"currency":"NGN","amount":7500}, "GH": {"currency":"GHS","amount":75}, "ZA": {"currency":"ZAR","amount":90}, "UG": {"currency":"UGX","amount":18000}, "TZ": {"currency":"TZS","amount":12500}, "DEFAULT": {"currency":"USD","amount":5} } },
+        { "duration": "MONTHLY", "amount_usd": 16, "local": { "KE": {"currency":"KES","amount":2000}, "NG": {"currency":"NGN","amount":24000}, "GH": {"currency":"GHS","amount":240}, "ZA": {"currency":"ZAR","amount":290}, "UG": {"currency":"UGX","amount":57000}, "TZ": {"currency":"TZS","amount":40000}, "DEFAULT": {"currency":"USD","amount":16} } }
+      ]
+    },
+    {
+      "id": "correct_score",
+      "title": "Correct Score",
+      "subtitle": "High-Precision Score Predictions",
+      "type": "CORRECT_SCORE",
+      "is_most_popular": false,
+      "kenya_only": false,
+      "features": [
+        "Daily Correct Score Predictions",
+        "AI-Powered Scoreline Modelling",
+        "Risk & Confidence Rating per Match",
+        "Attacking & Defensive Form Stats",
+        "Average Goals Scored/Conceded",
+        "Expert Match-by-Match Commentary",
+        "Ad-Free Access",
+        "24/7 Support"
+      ],
+      "prices": [
+        { "duration": "DAILY",   "amount_usd": 10,  "local": { "KE": {"currency":"KES","amount":1300}, "NG": {"currency":"NGN","amount":15000}, "GH": {"currency":"GHS","amount":150}, "ZA": {"currency":"ZAR","amount":180}, "UG": {"currency":"UGX","amount":36000}, "TZ": {"currency":"TZS","amount":25000}, "DEFAULT": {"currency":"USD","amount":10} } },
+        { "duration": "WEEKLY",  "amount_usd": 50,  "local": { "KE": {"currency":"KES","amount":6500}, "NG": {"currency":"NGN","amount":75000}, "GH": {"currency":"GHS","amount":750}, "ZA": {"currency":"ZAR","amount":900}, "UG": {"currency":"UGX","amount":180000}, "TZ": {"currency":"TZS","amount":125000}, "DEFAULT": {"currency":"USD","amount":50} } },
+        { "duration": "MONTHLY", "amount_usd": 150, "local": { "KE": {"currency":"KES","amount":19500}, "NG": {"currency":"NGN","amount":225000}, "GH": {"currency":"GHS","amount":2250}, "ZA": {"currency":"ZAR","amount":2700}, "UG": {"currency":"UGX","amount":540000}, "TZ": {"currency":"TZS","amount":375000}, "DEFAULT": {"currency":"USD","amount":150} } }
+      ]
+    },
+    {
+      "id": "jackpot",
+      "title": "Jackpot",
+      "subtitle": "Kenya Jackpot Predictions",
+      "type": "JACKPOT",
+      "is_most_popular": false,
+      "kenya_only": true,
+      "features": [
+        "SportPesa Jackpot Predictions",
+        "SportPesa MegaJackpot Predictions",
+        "Betika Jackpot Predictions",
+        "Expert Match Selection & Reasoning",
+        "High-Odds Combination Tips",
+        "Value Bet Identification",
+        "Ad-Free Access",
+        "24/7 Support"
+      ],
+      "jackpots": [
+        { "bookmaker": "SportPesa Jackpot",     "amount_usd": 3, "local": { "KE": {"currency":"KES","amount":390} } },
+        { "bookmaker": "SportPesa MegaJackpot", "amount_usd": 4, "local": { "KE": {"currency":"KES","amount":520} } },
+        { "bookmaker": "Betika Jackpot",        "amount_usd": 3, "local": { "KE": {"currency":"KES","amount":390} } }
+      ],
+      "prices": []
+    }
+  ],
+
+  "support": {
+    "email": "support@goaltipspro.com",
+    "whatsapp": "+254700000000",
+    "telegram": "https://t.me/goaltipspro",
+    "twitter_x": "https://x.com/goaltipspro",
+    "instagram": "https://instagram.com/goaltipspro",
+    "tiktok": "https://tiktok.com/@goaltipspro",
+    "terms_url": "https://yourusername.github.io/goaltips/terms.html",
+    "privacy_url": "https://yourusername.github.io/goaltips/privacy.html"
+  }
+}
