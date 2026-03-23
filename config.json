@@ -6,16 +6,16 @@
   "show_open_ad": true,
 
   "ad_units": {
-    "pangle_app_id": "8734395",
-    "splash_open": "890129935",
-    "banner_main": "982508241",
-    "interstitial_tips": "982503075",
-    "native_free_tips": "982508214",
-    "native_vip": "982508214",
-    "native_exit": "982508214"
+    "pangle_app_id": "8888",
+    "splash_open": "887798027",
+    "banner_main": "887798026",
+    "interstitial_tips": "887798028",
+    "native_free_tips": "887798029",
+    "native_vip": "887798029",
+    "native_exit": "887798029"
   },
 
-  "api_football_key": "507f870b6cc36ac140a2a0a9d294e5f3",
+  "api_football_key": "YOUR_API_FOOTBALL_KEY_HERE",
 
   "paystack_public_key": "pk_live_21ece91fbb5ded256dd1f4ddf4262d20505c342b",
   "paystack_secret_key": "sk_live_c94b7250ccdc9436ddb5f4706f143edf904d9c41",
