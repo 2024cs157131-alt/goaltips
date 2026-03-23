@@ -6,14 +6,14 @@
   "show_open_ad": true,
 
   "ad_units": {
-    "pangle_app_id": "8888",
-    "splash_open": "887798027",
-    "banner_main": "887798026",
-    "interstitial_tips": "887798028",
-    "native_free_tips": "887798029",
-    "native_vip": "887798029",
-    "native_exit": "887798029"
-  },
+    "pangle_app_id": "5001121",
+    "splash_open": "887367771",
+    "banner_main": "901121246",
+    "interstitial_tips": "901121435",
+    "native_free_tips": "901121245",
+    "native_vip": "901121245",
+    "native_exit": "901121245"
+},
 
   "api_football_key": "YOUR_API_FOOTBALL_KEY_HERE",
 
